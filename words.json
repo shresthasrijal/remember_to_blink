@@ -8,7 +8,7 @@
       "romaji": "mi zu",
       "english": "water",
       "topic": "nature"
-      "subtopic" : NULL,
+      "subtopic" : null,
       "hasKanji": 1,
       "kanji": "水",      
     },
