@@ -10,7 +10,7 @@
       "topic": "nature"
       "subtopic" : null,
       "hasKanji": 1,
-      "kanji": "水",      
+      "kanji": "水"     
     },
     {
       "id": 2,
@@ -32,7 +32,7 @@
       "topic": "greetings",
       "subtopic": null,
       "hasKanji": 0,
-      "kanji": null,
+      "kanji": null
     },
     {
       "id": 4,
@@ -43,7 +43,7 @@
       "topic": "greetings",
       "subtopic": null,
       "hasKanji": 0,
-      "kanji": null,
+      "kanji": null
     },
     {
       "id": 5,
@@ -54,7 +54,7 @@
       "topic": "greetings",
       "subtopic": null,
       "hasKanji": 0,
-      "kanji": null,
+      "kanji": null
     }
   ]
 }
