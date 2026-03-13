@@ -55,6 +55,50 @@
       "subtopic": null,
       "hasKanji": 0,
       "kanji": null
-    }
+    },
+    {
+    "id": 6,
+    "script": "katakana",
+    "kana": "アメリカ",
+    "romaji": "a me ri ka",
+    "english": "America",
+    "topic": "countries",
+    "subtopic": null,
+    "hasKanji": 0,
+    "kanji": null
+  },
+  {
+    "id": 7,
+    "script": "katakana",
+    "kana": "ブラジル",
+    "romaji": "bu ra ji ru",
+    "english": "Brazil",
+    "topic": "countries",
+    "subtopic": null,
+    "hasKanji": 0,
+    "kanji": null
+  },
+  {
+    "id": 8,
+    "script": "katakana",
+    "kana": "ネパール",
+    "romaji": "ne paa ru",
+    "english": "Nepal",
+    "topic": "countries",
+    "subtopic": null,
+    "hasKanji": 0,
+    "kanji": null
+  },
+  {
+    "id": 9,
+    "script": "katakana",
+    "kana": "インド",
+    "romaji": "in do",
+    "english": "India",
+    "topic": "countries",
+    "subtopic": null,
+    "hasKanji": 0,
+    "kanji": null
+  }
   ]
 }
