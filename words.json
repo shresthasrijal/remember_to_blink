@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "words": [
+    {
+      "id": 1,
+      "script": "hiragana",
+      "kana" : "みず",
+      "romaji": "MiZu",
+      "english": "water",
+      "topic": "nature"
+      "subtopic" : NULL,
+      "fromOnline": 1,
+      "hasKanji": 1,
+      "kanji": "水",      
+    }
+  ]
+}
