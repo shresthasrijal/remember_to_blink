@@ -3,6 +3,7 @@
   "words": [
     {
       "id": 1,
+      "order": null,
       "script": "hiragana",
       "kana": "みず",
       "romaji": "mi zu",
@@ -14,6 +15,7 @@
     },
     {
       "id": 2,
+      "order": 2,
       "script": "hiragana",
       "kana": "こんにちは",
       "romaji": "ko n ni chi ha(wa)",
@@ -25,6 +27,7 @@
     },
     {
       "id": 3,
+      "order": 1,
       "script": "hiragana",
       "kana": "おはよう ございます",
       "romaji": "o ha yo u go za i ma su",
@@ -36,6 +39,7 @@
     },
     {
       "id": 4,
+      "order": 3,
       "script": "hiragana",
       "kana": "こんばんは",
       "romaji": "ko n ban wa",
@@ -47,6 +51,7 @@
     },
     {
       "id": 5,
+      "order": 4,
       "script": "hiragana",
       "kana": "おやすみ なさい",
       "romaji": "o ya su mi na sa i",
@@ -102,6 +107,7 @@
     },
     {
       "id": 10,
+      "order": 1,
       "script": "hiragana",
       "kana": "おととい",
       "romaji": "ototoi",
@@ -113,6 +119,7 @@
     },
     {
       "id": 11,
+      "order": 2,
       "script": "hiragana",
       "kana": "きのう",
       "romaji": "kinou",
@@ -124,6 +131,7 @@
     },
     {
       "id": 12,
+      "order": 3,
       "script": "hiragana",
       "kana": "きょう",
       "romaji": "kyou",
@@ -135,6 +143,7 @@
     },
     {
       "id": 13,
+      "order": 4,
       "script": "hiragana",
       "kana": "あした",
       "romaji": "ashita",
@@ -146,6 +155,7 @@
     },
     {
       "id": 14,
+      "order": 5,
       "script": "hiragana",
       "kana": "あさって",
       "romaji": "asatte",
@@ -157,6 +167,7 @@
     },
     {
       "id": 15,
+      "order": 1,
       "script": "hiragana",
       "kana": "にちようび",
       "romaji": "nichiyoubi",
@@ -168,6 +179,7 @@
     },
     {
       "id": 16,
+      "order": 2,
       "script": "hiragana",
       "kana": "げつようび",
       "romaji": "getsuyoubi",
@@ -179,6 +191,7 @@
     },
     {
       "id": 17,
+      "order": 3,
       "script": "hiragana",
       "kana": "かようび",
       "romaji": "kayoubi",
@@ -190,6 +203,7 @@
     },
     {
       "id": 18,
+      "order": 4,
       "script": "hiragana",
       "kana": "すいようび",
       "romaji": "suiyoubi",
@@ -201,6 +215,7 @@
     },
     {
       "id": 19,
+      "order": 5,
       "script": "hiragana",
       "kana": "もくようび",
       "romaji": "mokuyoubi",
@@ -212,6 +227,7 @@
     },
     {
       "id": 20,
+      "order": 6,
       "script": "hiragana",
       "kana": "きんようび",
       "romaji": "kinyoubi",
@@ -223,6 +239,7 @@
     },
     {
       "id": 21,
+      "order": 7,
       "script": "hiragana",
       "kana": "どようび",
       "romaji": "doyoubi",
@@ -234,6 +251,7 @@
     },
     {
       "id": 30,
+      "order": 1,
       "script": "hiragana",
       "kana": "ついたち",
       "romaji": "tsuitachi",
@@ -245,6 +263,7 @@
     },
     {
       "id": 31,
+      "order": 2,
       "script": "hiragana",
       "kana": "ふつか",
       "romaji": "futsuka",
@@ -256,6 +275,7 @@
     },
     {
       "id": 32,
+      "order": 3,
       "script": "hiragana",
       "kana": "みっか",
       "romaji": "mikka",
@@ -267,6 +287,7 @@
     },
     {
       "id": 33,
+      "order": 4,
       "script": "hiragana",
       "kana": "よっか",
       "romaji": "yokka",
@@ -278,6 +299,7 @@
     },
     {
       "id": 34,
+      "order": 5,
       "script": "hiragana",
       "kana": "いつか",
       "romaji": "itsuka",
@@ -289,6 +311,7 @@
     },
     {
       "id": 35,
+      "order": 6,
       "script": "hiragana",
       "kana": "むいか",
       "romaji": "muika",
@@ -300,6 +323,7 @@
     },
     {
       "id": 36,
+      "order": 7,
       "script": "hiragana",
       "kana": "なのか",
       "romaji": "nanoka",
@@ -311,6 +335,7 @@
     },
     {
       "id": 37,
+      "order": 8,
       "script": "hiragana",
       "kana": "ようか",
       "romaji": "youka",
@@ -322,6 +347,7 @@
     },
     {
       "id": 38,
+      "order": 9,
       "script": "hiragana",
       "kana": "ここのか",
       "romaji": "kokonoka",
@@ -333,6 +359,7 @@
     },
     {
       "id": 39,
+      "order": 10,
       "script": "hiragana",
       "kana": "とおか",
       "romaji": "tooka",
@@ -344,9 +371,10 @@
     },
     {
       "id": 40,
+      "order": 11,
       "script": "hiragana",
       "kana": "じゅうよっか",
-      "romaji": "juuyokka",
+      "romaji": "jyuu yokka",
       "english": "14th day",
       "topic": "date",
       "subtopic": "day (तारिख)",
@@ -355,9 +383,10 @@
     },
     {
       "id": 41,
+      "order": 12,
       "script": "hiragana",
       "kana": "じゅうくにち",
-      "romaji": "juukunichi",
+      "romaji": "jyuu ku nichi",
       "english": "19th day",
       "topic": "date",
       "subtopic": "day (तारिख)",
@@ -366,6 +395,7 @@
     },
     {
       "id": 42,
+      "order": 13,
       "script": "hiragana",
       "kana": "はつか",
       "romaji": "hatsuka",
@@ -377,9 +407,10 @@
     },
     {
       "id": 43,
+      "order": 14,
       "script": "hiragana",
       "kana": "にじゅうよっか",
-      "romaji": "nijuuyokka",
+      "romaji": "ni jyuu yokka",
       "english": "24th day",
       "topic": "date",
       "subtopic": "day (तारिख)",
@@ -388,6 +419,7 @@
     },
     {
       "id": 44,
+      "order": 15,
       "script": "hiragana",
       "kana": "にじゅうくにち",
       "romaji": "nijuukunichi",
@@ -399,9 +431,10 @@
     },
     {
       "id": 50,
+      "order": 1,
       "script": "hiragana",
       "kana": "いちがつ",
-      "romaji": "ichigatsu",
+      "romaji": "ichi gatsu",
       "english": "January",
       "topic": "date",
       "subtopic": "month",
@@ -410,9 +443,10 @@
     },
     {
       "id": 51,
+      "order": 2,
       "script": "hiragana",
       "kana": "にがつ",
-      "romaji": "nigatsu",
+      "romaji": "ni gatsu",
       "english": "February",
       "topic": "date",
       "subtopic": "month",
@@ -421,9 +455,10 @@
     },
     {
       "id": 52,
+      "order": 3,
       "script": "hiragana",
       "kana": "さんがつ",
-      "romaji": "sangatsu",
+      "romaji": "san gatsu",
       "english": "March",
       "topic": "date",
       "subtopic": "month",
@@ -432,9 +467,10 @@
     },
     {
       "id": 53,
+      "order": 4,
       "script": "hiragana",
       "kana": "しがつ",
-      "romaji": "shigatsu",
+      "romaji": "shi gatsu",
       "english": "April",
       "topic": "date",
       "subtopic": "month",
@@ -443,9 +479,10 @@
     },
     {
       "id": 54,
+      "order": 5,
       "script": "hiragana",
       "kana": "ごがつ",
-      "romaji": "gogatsu",
+      "romaji": "go gatsu",
       "english": "May",
       "topic": "date",
       "subtopic": "month",
@@ -454,9 +491,10 @@
     },
     {
       "id": 55,
+      "order": 6,
       "script": "hiragana",
       "kana": "ろくがつ",
-      "romaji": "rokugatsu",
+      "romaji": "roku gatsu",
       "english": "June",
       "topic": "date",
       "subtopic": "month",
@@ -465,9 +503,10 @@
     },
     {
       "id": 56,
+      "order": 7,
       "script": "hiragana",
       "kana": "しちがつ",
-      "romaji": "shichigatsu",
+      "romaji": "shichi gatsu",
       "english": "July",
       "topic": "date",
       "subtopic": "month",
@@ -476,9 +515,10 @@
     },
     {
       "id": 57,
+      "order": 8,
       "script": "hiragana",
       "kana": "はちがつ",
-      "romaji": "hachigatsu",
+      "romaji": "hachi gatsu",
       "english": "August",
       "topic": "date",
       "subtopic": "month",
@@ -487,9 +527,10 @@
     },
     {
       "id": 58,
+      "order": 9,
       "script": "hiragana",
       "kana": "くがつ",
-      "romaji": "kugatsu",
+      "romaji": "ku gatsu",
       "english": "September",
       "topic": "date",
       "subtopic": "month",
@@ -498,9 +539,10 @@
     },
     {
       "id": 59,
+      "order": 10,
       "script": "hiragana",
       "kana": "じゅうがつ",
-      "romaji": "juugatsu",
+      "romaji": "jyuu gatsu",
       "english": "October",
       "topic": "date",
       "subtopic": "month",
@@ -509,9 +551,10 @@
     },
     {
       "id": 60,
+      "order": 11,
       "script": "hiragana",
       "kana": "じゅういちがつ",
-      "romaji": "juuichigatsu",
+      "romaji": "jyuu ichi gatsu",
       "english": "November",
       "topic": "date",
       "subtopic": "month",
@@ -520,14 +563,63 @@
     },
     {
       "id": 61,
+      "order": 12,
       "script": "hiragana",
       "kana": "じゅうにがつ",
-      "romaji": "juunigatsu",
+      "romaji": "jyuu ni gatsu",
       "english": "December",
       "topic": "date",
       "subtopic": "month",
       "hasKanji": 1,
       "kanji": "十二月"
+    },
+    {
+      "id": 62,
+      "order": 1,
+      "script": "hiragana",
+      "kana": "じゅう",
+      "romaji": "jyuu",
+      "english": "ten",
+      "topic": "numericals",
+      "subtopic": "number",
+      "hasKanji": 1,
+      "kanji": "十"
+    },
+    {
+      "id": 63,
+      "order": 2,
+      "script": "hiragana",
+      "kana": "ひゃく",
+      "romaji": "hyaku",
+      "english": "one hundred",
+      "topic": "numericals",
+      "subtopic": "number",
+      "hasKanji": 1,
+      "kanji": "百"
+    },
+    {
+      "id": 64,
+      "order": 3,
+      "script": "hiragana",
+      "kana": "せん",
+      "romaji": "sen",
+      "english": "one thousand",
+      "topic": "numericals",
+      "subtopic": "number",
+      "hasKanji": 1,
+      "kanji": "千"
+    },
+    {
+      "id": 65,
+      "order": 4,
+      "script": "hiragana",
+      "kana": "まん",
+      "romaji": "man",
+      "english": "ten thousand",
+      "topic": "numericals",
+      "subtopic": "number",
+      "hasKanji": 1,
+      "kanji": "万"
     }
   ]
 }
