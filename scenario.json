@@ -1,8 +1,8 @@
 {
   "version": 0,
   "characters": [
-    {"id": "1", "name": "Star", "nameKana": "スター", "occupation": "Idol"},
-    {"id": "2", "name": "Kaishain Man", "nameKana": "カイシャインマン", "occupation": "Salaryman"}
+    {"id": 1, "name": "Star", "nameKana": "スター", "occupation": "Idol"},
+    {"id": 2, "name": "Kaishain Man", "nameKana": "カイシャインマン", "occupation": "Salaryman"}
   ],
   "scenario": [
     {
