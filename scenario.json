@@ -9,12 +9,12 @@
       "id": "1",
       "name": "introduction",
       "dialogue": [
-        {"id": "d1", "scenarioId": "1", "orderId": 1, "dialogueKana": "こんにちは、スターです。", "dialogueRomaji": "Konnichiwa, Sutā desu.", "dialogueEnglish": "Hello, I'm Star.", "characterId": "1", "expression": "smile"},
-        {"id": "d2", "scenarioId": "1", "orderId": 2, "dialogueKana": "こんにちは、カイシャインマンです。", "dialogueRomaji": "Konnichiwa, Kaishain Man desu.", "dialogueEnglish": "Hello, I'm Kaishain Man.", "characterId": "2", "expression": "nervous"},
-        {"id": "d3", "scenarioId": "1", "orderId": 3, "dialogueKana": "お元気ですか？", "dialogueRomaji": "O genki desu ka?", "dialogueEnglish": "How are you?", "characterId": "1", "expression": "smile"},
-        {"id": "d4", "scenarioId": "1", "orderId": 4, "dialogueKana": "はい、元気です。", "dialogueRomaji": "Hai, genki desu.", "dialogueEnglish": "Yes, I'm fine.", "characterId": "2", "expression": "nervous"},
-        {"id": "d5", "scenarioId": "1", "orderId": 5, "dialogueKana": "スターさんは？", "dialogueRomaji": "Sutā-san wa?", "dialogueEnglish": "And you, Star?", "characterId": "2", "expression": "nervous"},
-        {"id": "d6", "scenarioId": "1", "orderId": 6, "dialogueKana": "はい、元気です。", "dialogueRomaji": "Hai, genki desu.", "dialogueEnglish": "Yes, I'm fine.", "characterId": "1", "expression": "smile"}
+        {"id": "d1", "scenarioId": "1", "orderId": 1, "dialogueKana": "こんにちは、スターです。", "dialogueRomaji": "Konnichiwa, Sutā desu.", "dialogueEnglish": "Hello, I'm Star.", "characterId": "1", "expression": "plain"},
+        {"id": "d2", "scenarioId": "1", "orderId": 2, "dialogueKana": "こんにちは、カイシャインマンです。", "dialogueRomaji": "Konnichiwa, Kaishain Man desu.", "dialogueEnglish": "Hello, I'm Kaishain Man.", "characterId": "2", "expression": "plain"},
+        {"id": "d3", "scenarioId": "1", "orderId": 3, "dialogueKana": "お元気ですか？", "dialogueRomaji": "O genki desu ka?", "dialogueEnglish": "How are you?", "characterId": "1", "expression": "plain"},
+        {"id": "d4", "scenarioId": "1", "orderId": 4, "dialogueKana": "はい、元気です。", "dialogueRomaji": "Hai, genki desu.", "dialogueEnglish": "Yes, I'm fine.", "characterId": "2", "expression": "plain"},
+        {"id": "d5", "scenarioId": "1", "orderId": 5, "dialogueKana": "スターさんは？", "dialogueRomaji": "Sutā-san wa?", "dialogueEnglish": "And you, Star?", "characterId": "2", "expression": "plain"},
+        {"id": "d6", "scenarioId": "1", "orderId": 6, "dialogueKana": "はい、元気です。", "dialogueRomaji": "Hai, genki desu.", "dialogueEnglish": "Yes, I'm fine.", "characterId": "1", "expression": "plain"}
       ]
     }
   ]
