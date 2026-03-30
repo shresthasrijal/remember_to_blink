@@ -621,5 +621,41 @@
       "hasKanji": 1,
       "kanji": "万"
     }
-  ]
+    {
+    "id": 66,
+    "order": 1,
+    "script": "hiragana",
+    "kana": "ひ",
+    "romaji": "hi",
+    "english": "day",
+    "topic": "date",
+    "subtopic": null,
+    "hasKanji": 1,
+    "kanji": "日"
+  },
+  {
+    "id": 67,
+    "order": 2,
+    "script": "hiragana",
+    "kana": "つき",
+    "romaji": "tsuki",
+    "english": "month",
+    "topic": "date",
+    "subtopic": null,
+    "hasKanji": 1,
+    "kanji": "月"
+  },
+  {
+    "id": 68,
+    "order": 3,
+    "script": "hiragana",
+    "kana": "とし",
+    "romaji": "toshi",
+    "english": "year",
+    "topic": "date",
+    "subtopic": null,
+    "hasKanji": 1,
+    "kanji": "年"
+  }
+  z
 }
