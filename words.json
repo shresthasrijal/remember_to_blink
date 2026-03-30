@@ -112,8 +112,8 @@
       "kana": "おととい",
       "romaji": "ototoi",
       "english": "day before yesterday",
-      "topic": "time",
-      "subtopic": "day name",
+      "topic": "date",
+      "subtopic": "relative time expressions",
       "hasKanji": 0,
       "kanji": null
     },
@@ -124,8 +124,8 @@
       "kana": "きのう",
       "romaji": "kinou",
       "english": "yesterday",
-      "topic": "time",
-      "subtopic": "day name",
+      "topic": "date",
+      "subtopic": "relative time expressions",
       "hasKanji": 0,
       "kanji": null
     },
@@ -136,8 +136,8 @@
       "kana": "きょう",
       "romaji": "kyou",
       "english": "today",
-      "topic": "time",
-      "subtopic": "day name",
+      "topic": "date",
+      "subtopic": "relative time expressions",
       "hasKanji": 0,
       "kanji": null
     },
@@ -148,8 +148,8 @@
       "kana": "あした",
       "romaji": "ashita",
       "english": "tomorrow",
-      "topic": "time",
-      "subtopic": "day name",
+      "topic": "date",
+      "subtopic": "relative time expressions",
       "hasKanji": 0,
       "kanji": null
     },
@@ -160,8 +160,8 @@
       "kana": "あさって",
       "romaji": "asatte",
       "english": "day after tomorrow",
-      "topic": "time",
-      "subtopic": "day name",
+      "topic": "date",
+      "subtopic": "relative time expressions",
       "hasKanji": 0,
       "kanji": null
     },
@@ -622,40 +622,40 @@
       "kanji": "万"
     },
     {
-    "id": 66,
-    "order": 1,
-    "script": "hiragana",
-    "kana": "ひ",
-    "romaji": "hi",
-    "english": "day",
-    "topic": "date",
-    "subtopic": null,
-    "hasKanji": 1,
-    "kanji": "日"
-  },
-  {
-    "id": 67,
-    "order": 2,
-    "script": "hiragana",
-    "kana": "つき",
-    "romaji": "tsuki",
-    "english": "month",
-    "topic": "date",
-    "subtopic": null,
-    "hasKanji": 1,
-    "kanji": "月"
-  },
-  {
-    "id": 68,
-    "order": 3,
-    "script": "hiragana",
-    "kana": "とし",
-    "romaji": "toshi",
-    "english": "year",
-    "topic": "date",
-    "subtopic": null,
-    "hasKanji": 1,
-    "kanji": "年"
-  }
-  z
+      "id": 66,
+      "order": 1,
+      "script": "hiragana",
+      "kana": "ひ",
+      "romaji": "hi",
+      "english": "day",
+      "topic": "date",
+      "subtopic": null,
+      "hasKanji": 1,
+      "kanji": "日"
+    },
+    {
+      "id": 67,
+      "order": 2,
+      "script": "hiragana",
+      "kana": "つき",
+      "romaji": "tsuki",
+      "english": "month",
+      "topic": "date",
+      "subtopic": null,
+      "hasKanji": 1,
+      "kanji": "月"
+    },
+    {
+      "id": 68,
+      "order": 3,
+      "script": "hiragana",
+      "kana": "とし",
+      "romaji": "toshi",
+      "english": "year",
+      "topic": "date",
+      "subtopic": null,
+      "hasKanji": 1,
+      "kanji": "年"
+    }
+  ]
 }
